@@ -1,4 +1,8 @@
 body{
-    background-color:pink;
+    text-align: center;
+    background-color:rgb(187, 78, 96);
 font-size:large;
 font-family:'Quicksand', sans-serif;}
+h1{
+    text-align: center;
+}
